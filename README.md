@@ -13,4 +13,3 @@
   - cd awx/installer/
   - ansible-playbook -i inventory install.yml
 ```
-this is only temporary
