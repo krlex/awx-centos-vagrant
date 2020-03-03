@@ -1,4 +1,4 @@
 .vagrant/
-.retry
-.log
-.box
+*.retry
+*.log
+*.box
